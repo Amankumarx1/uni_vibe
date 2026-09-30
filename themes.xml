@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.UniVibe" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FFFFFEF7</item>
+    </style>
+    <color name="ic_bg">#8BE4F0</color>
+</resources>
